@@ -23,9 +23,9 @@ e.g __git push origin devsg__ ( it will push branch devsg( local branch) to orig
 12. git config --global --unset http.proxy
 
 
-## First Contribtution
+## First Contribution
 
-- In order to contribute to this repository first fork the repo.(you can see this in the right most side of the page).This will make a local vesrion of the repository in your GitHub account. 
+- In order to contribute to this repository first fork the repo.(you can see this in the right most side of the page).This will make a local version of the repository in your GitHub account. 
 
 - ``` git clone https://github.com/user_name/Beginner-Repo ``` where **user_name** is your GitHub handle name e.g - https://github.com/pydevsg/Beginner-Repo 
 - ``` cd Beginner-Repo ```
